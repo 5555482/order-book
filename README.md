@@ -32,3 +32,4 @@ To run the project locally, follow these steps:
 4. Start the development server: npm run dev
 
 5. Open your browser and view the app.
+<img width="758" alt="Screenshot 2024-04-21 at 11 21 05" src="https://github.com/5555482/order-book/assets/12183760/07127928-af18-4abf-88af-c5a9b4ebc612">
